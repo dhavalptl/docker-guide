@@ -1,9 +1,9 @@
 # docker-guide
 
-Useful docker commands
+## Useful docker commands
 
-1. List docker images : docker images -a
-2. List running docker container : docker ps -a
+1. List docker images ```docker images -a```
+2. List running docker container ```docker ps -a```
 3. List docker images images id : docker images -q
 4. List running docker container ids : docker ps -a -q
 5. Single stop running container process: docker stop <first three digit of container id | container id>
